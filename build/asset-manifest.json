@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9061300c.css",
+    "main.js": "/static/js/main.518626b0.js",
+    "static/js/787.917857b7.chunk.js": "/static/js/787.917857b7.chunk.js",
+    "static/media/pexels-zukiman-mohamad-22185.jpg": "/static/media/pexels-zukiman-mohamad-22185.58c09bc2217cceec59fd.jpg",
+    "static/media/wp7624776-cameraman-wallpapers.jpg": "/static/media/wp7624776-cameraman-wallpapers.f1e5850829fe8e30c37e.jpg",
+    "static/media/PngItem_5033164.png": "/static/media/PngItem_5033164.5a24e18c5cdee80ab451.png",
+    "static/media/20231220_232409.png": "/static/media/20231220_232409.ce2016341df8c273242a.png",
+    "static/media/socialmedia.png": "/static/media/socialmedia.92f50222946631e21744.png",
+    "static/media/PinClipart.com_dover-clip-art_5805471.png": "/static/media/PinClipart.com_dover-clip-art_5805471.8845873d248d7bda4a37.png",
+    "index.html": "/index.html",
+    "main.9061300c.css.map": "/static/css/main.9061300c.css.map",
+    "main.518626b0.js.map": "/static/js/main.518626b0.js.map",
+    "787.917857b7.chunk.js.map": "/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9061300c.css",
+    "static/js/main.518626b0.js"
+  ]
+}
